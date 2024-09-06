@@ -1,2 +1,6 @@
-# Code40Plus
-Site for Code40Plus
+🚀 About Code40Plus
+Founded with a mission to empower professionals aged 40 and above, Code40Plus is a community-driven initiative dedicated to upskilling individuals in software development and technology. As the tech industry evolves, we believe that experience, combined with new technical skills, creates innovative leaders and problem-solvers who can shape the future of the digital landscape.
+
+At Code40Plus, we recognize the unique challenges faced by individuals transitioning into tech later in their careers. Our program offers hands-on training in modern programming languages, open source development, and cutting-edge technologies, preparing our members to excel in new career paths or entrepreneurial ventures. Whether you're pivoting from another industry or looking to sharpen your tech skills, Code40Plus is here to help you navigate and thrive in the tech world.
+
+We provide a supportive environment where mature professionals can leverage their existing expertise while gaining new technical skills, bridging the gap between experience and innovation. Code40Plus is more than just a training program; it's a launch pad for those ready to embrace the digital economy and contribute to a vibrant, diverse tech community.
